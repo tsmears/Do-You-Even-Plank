@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DYEP</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="how_long_can_you_plank">How long can you plank?</string>
+    <string name="img_line">img_line</string>
+    <string name="_0_30">0:30</string>
+    <string name="second_btn">second_btn</string>
+    <string name="_0_45">0:45</string>
+    <string name="_1_00">1:00</string>
+    <string name="_1_15">1:15</string>
+    <string name="_1_30">1:30</string>
+    <string name="_1_45">1:45</string>
+    <string name="_2_00">2:00</string>
+    <string name="_2_30">2:30</string>
+    <string name="_3_00">3:00</string>
+    <string name="action_icon">action_icon</string>
+    <string name="how_do_you_want_to_be_distracted">How do you want to be distracted?</string>
+    <string name="sports">Sports</string>
+    <string name="comedy">Comedy</string>
+    <string name="inspirational">Inspirational</string>
+    <string name="music_video">Music Video</string>
+    <string name="surprise_me">Surprise Me!</string>
+    <string name="ready">Ready??</string>
+    <string name="plank">Plank!</string>
+    <string name="skip">Skip</string>
+    <string name="please_send_any_inquiries_to">Please send any inquiries to</string>
+    <string name="hello_doyouevenplank_com">hello@doyouevenplank.com</string>
+</resources>

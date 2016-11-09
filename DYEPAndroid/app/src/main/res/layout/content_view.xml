@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/how_do_you_want_to_be_distracted"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:id="@+id/content_title" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_line"
+        android:background="@drawable/img_line"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/img_line" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sports"
+        android:id="@+id/sports_btn"
+        android:textAllCaps="false"
+        android:background="@drawable/buttoncolor"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/blue"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/comedy"
+        android:textAllCaps="false"
+        android:id="@+id/funny_btn"
+        android:background="@drawable/buttoncolor"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/blue"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inspirational"
+        android:textAllCaps="false"
+        android:id="@+id/inspirational_btn"
+        android:background="@drawable/buttoncolor"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/blue"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/music_video"
+        android:textAllCaps="false"
+        android:id="@+id/music_btn"
+        android:background="@drawable/buttoncolor"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/blue"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/surprise_me"
+        android:textAllCaps="false"
+        android:id="@+id/surprise_btn"
+        android:background="@drawable/buttoncolor"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/blue"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
